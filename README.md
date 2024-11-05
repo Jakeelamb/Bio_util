@@ -1,10 +1,8 @@
 # Bioinformatics Utility
 
 
-**Linutil** is a distro-agnostic toolbox designed to simplify everyday Linux tasks. It helps you set up applications and optimize your system for specific use cases. The utility is actively developed in Rust 🦀, providing performance and reliability.
+**Bio_util** is a distro-agnostic toolbox designed to simplify everyday Bioinformatics tasks. It helps you set up applications and optimize your system for specific use cases. The utility is actively developed in Rust 🦀, providing performance and reliability.
 
-> [!NOTE]
-> Since the project is still in active development, you may encounter some issues. Please consider [submitting feedback](https://github.com/ChrisTitusTech/linutil/issues) if you do.
 
 ## 💡 Usage
 To get started, pick which branch you would like to use, then run the command in your terminal:
